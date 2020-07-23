@@ -7,7 +7,8 @@ Functionalities:
 5. The messages a user sends will be visible to users in that particular room.
 6. The sidebar lists the room name along with users that have joined the room.
 7. When a user joins the room, it will be broadcasted to every user. Similarly if a user leaves, that will be also known to everyone in the room. Sidebar also gets updated accordingly.
-
+8. Because this application uses 'bad-words' npm library, so a user cannot send obscene messages. 
+9. When you send messages, that is a mandatory field. You cannot send blank messages.
 
 
 Need to work upon:
