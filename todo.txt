@@ -1,0 +1,17 @@
+Functionalities:
+
+1. User can create his/her own room and share roon name with paticipants to initiate a conversation.
+2. Every user should have a unique name in a particular room.
+3. User cannot have two rooms with same name but there can be users with same name in different room.
+4. User can send location to other users in a particular room.
+5. The messages a user sends will be visible to users in that particular room.
+6. The sidebar lists the room name along with users that have joined the room.
+7. When a user joins the room, it will be broadcasted to every user. Similarly if a user leaves, that will be also known to everyone in the room. Sidebar also gets updated accordingly.
+
+
+
+Need to work upon:
+
+1. Create private rooms with password.
+2. Show a list of public rooms to users so that they can join and take part in existing conversation.
+3. Give image and video upload support.
