@@ -5,8 +5,8 @@ This is a chat app to communicate
 https://sonal-chat-app.herokuapp.com/
 
 # Technologies Used:
-node.js
-socket.io
+NodeJs
+Socket.io
 HTML, CSS, javascript
 
 
